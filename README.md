@@ -8,6 +8,8 @@
 
 #### JavaScript
 + [Modern JavaScript Explained For Dinosaurs](https://web.archive.org/web/20230324100748/https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+    + shows how Javascript evolved(before ES6), gives you context
+    + there is also for CSS for dinosaurs
 
 ### Relationship
 + [Spouse Talk about 'mental load'](https://web.archive.org/web/20230923185047/https://english.emmaclit.com/2017/05/20/you-shouldve-asked/)
